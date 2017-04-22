@@ -1,0 +1,7 @@
+{
+  "name": "GauntletProxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jay Freestone <mail@jayfreestone.com>",
+  "license": "MIT"
+}
