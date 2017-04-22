@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Jay Freestone <mail@jayfreestone.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cors-anywhere": "^0.4.0"
+  }
 }
